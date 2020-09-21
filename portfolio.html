@@ -14,66 +14,76 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="index.html">Alyson Bennett</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="index.html">About</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="portfolio.html">Portfolio<span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact</a>
-                </li>
-            </ul>
+    
+    <nav class="d-flex container navbar-light navbar-expand-sm align-items-center">
+        <a href="index.html"><strong>Alyson Bennett</strong></a>
+
+        <div class="ml-auto">
+            <div class="list-group list-group-horizontal-sm collapse navbar-collapse" id="navbarToggleExternalContent">
+                <a href="index.html" class="nav-link">About</a>
+                <a href="portfolio.html" class="nav-link">Portfolio</a>
+                <a href="contact.html" class="nav-link">Contact</a>
+            </div>
+
+            <button class="d-sm-none btn " type="button" id="dropdownMenuButton" data-toggle="dropdown"
+                aria-haspopup="false" aria-expanded="false">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="dropdown-menu " aria-labelledby="dropdownMenuButton">
+                <a href="index.html" class="nav-link">About</a>
+                <a href="portfolio.html" class="nav-link">Portfolio</a>
+                <a href="contact.html" class="nav-link">Contact</a>
+            </div>
         </div>
+
     </nav>
     <br>
 
-    <div class="card-deck">
+    <div class="card-deck container mx-auto">
+
         <div class="card">
-            <div class="col-sm">
-                <img src="assets/horiseon.png" target="_blank" class="card-img-top" alt="Horiseon Homepage">
+            <div class="col-xs">
+                <img src="assets/horiseon.png" class="card-img-top img-port" alt="Horiseon Homepage">
                 <div class="card-body">
                     <h5 class="card-title">First Refracting Work</h5>
                     <p class="card-text">This was my first project for my coding boot camp, which involved refracting
                         the given HTML to make a clearer, and more easy to use code. Check out all my current work on my
                         GitHub page.</p>
-                    <a href="https://github.com/alysonbennett/ALB-01Homework.github.io"
-                        class="btn btn-primary">GitHub</a>
+                    <a href="https://github.com/alysonbennett/ALB-01Homework.github.io" class="btn btn-primary"
+                        target="_blank">GitHub</a>
                 </div>
             </div>
         </div>
+
         <div class="card">
-            <div class="col-sm">
-                <img src="assets/pplogo.png" class="card-img-top" alt="Posh Petals Logo">
+            <div class="col-xs">
+                <img src="assets/pplogo.png" class="card-img-top img-port" alt="Posh Petals Logo">
                 <div class="card-body">
                     <h5 class="card-title">Current Position</h5>
-                    <p class="card-text">I'm currently an event coordinator for Posh Petals Floral. Check out our page
+                    <p class="card-text">I have been with Posh Petals Floral for 2 years now as an Event Coordinator.
+                        When I'm not planning with clients, I get to design with beautiful flowers! Check out our page
                         to learn more about the company.</p>
                     <a href="https://www.poshpetalsfloral.com/" target="_blank" class="btn btn-primary">Posh Petals</a>
                 </div>
             </div>
         </div>
+    </article>
+
         <div class="card">
-            <div class="col-sm">
-                <img src="assets/captus.jpg" target="_blank" class="card-img-top" alt="Captus Creative Image">
+            <div class="col-xs">
+                <img src="assets/captus.jpg" class="card-img-top img-port" alt="Captus Creative Image">
                 <div class="card-body">
                     <h5 class="card-title">Other Work</h5>
                     <p class="card-text">In addition to working at Posh Petals I also contract with Captus Creative,
                         an event production company based in Grand Rapids. Their work can be seen at venues around West
                         Michigan and beyond.</p>
-                    <a href="http://www.captuscreative.com/" class="btn btn-primary">Captus Creative</a>
+                    <a href="http://www.captuscreative.com/" class="btn btn-primary" target="_blank">Captus Creative</a>
                 </div>
             </div>
         </div>
+
     </div>
+</div>
 
 
     <!-- JavaScript CDN for future updates -->

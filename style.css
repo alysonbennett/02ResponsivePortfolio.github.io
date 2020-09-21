@@ -1,10 +1,15 @@
+body {
+    background: #ff9a76;
+}
+
+
 h1,
 h2,
 h5,
 p,
 div 
 nav 
-label{
+label {
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -13,6 +18,32 @@ h5{
 }
 
 .img-port {
-    max-height: 300px;
-    max-width: auto;
+    max-height: 200px;
+}
+
+.card-deck {
+    background-color:#ff9a76;
+}
+
+.card {
+    background-color: #557571;
+}
+
+.btn {
+    background-color: #cf7500;
+    border: #cf7500;
+}
+
+nav {
+    background-color: #1d2d50;
+}
+
+a{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.dropdown-menu {
+    background-color: #cf7500;
+    color: white
 }
