@@ -11,3 +11,8 @@ label{
 h5{
     font-weight: bold;
 }
+
+.img-port {
+    max-height: 300px;
+    max-width: auto;
+}
