@@ -1,10 +1,34 @@
-Homework 2: Responsive Portfolio
-Alyson Bennett
+## Homework 2: Responsive Portfolio
+## Alyson Bennett
 
-First step, created 3 html files, a CSS file, and README
+The goal of this project was to create a responsive and personalized portfolio. This included a working navbar, a reponsive layout, and responsive images.  
 
-Copied Bootstrap CDN to all HTML files and linked CSS to each
+To begin this project, I created 3 HTML files (named index.html, portfolio.html, and contact.html), as well as a CSS stylesheet.
 
-Changed title to reflect which page on tab
+From there, I browsed the Bootstrap website to find code that fit for my project.  After adding these codes, I altered them to fit my information. This included changing to semantic tags in places and also removing some lines of code that were not needed.
 
-Inserted navbar from css, changed links
+I added personalized contect in the About Me and Portfolio pages, as well as photos to reflect my experience.
+
+I completed the project with adding color schemes to help break up the pages into readable sections. 
+
+## Here are some screen shots of the completed pages:
+
+Index (About Me Page)
+
+![Index Image](screenshots/indexScreenShot.png)
+
+Portfolio
+
+![Portfolio Image](screenshots/portfolioScreenShot.png)
+
+Contact
+
+![Contact](screenshots/contactScreenShot.png)
+
+## Here is a link to the final Responsive Portfolio
+
+https://alysonbennett.github.io/02ResponsivePortfolio.github.io/
+
+While I feel that I completed this project to the best of my current abilities, I am excited to remodel these pages as I learn more programming.
+
+Thank you. 
