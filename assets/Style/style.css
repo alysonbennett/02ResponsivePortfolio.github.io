@@ -1,5 +1,5 @@
 body {
-    background: #ff9a76;
+    background: #cb997e;
 }
 
 
@@ -17,25 +17,30 @@ h5{
     font-weight: bold;
 }
 
+.jumbotron {
+    max-width: auto;
+    max-height: auto;
+}
+
 .img-port {
     max-height: 200px;
 }
 
 .card-deck {
-    background-color:#ff9a76;
+    background-color:#cb997e;
 }
 
 .card {
-    background-color: #557571;
+    background-color: #b7b7a4;
 }
 
 .btn {
-    background-color: #cf7500;
-    border: #cf7500;
+    background-color: #774936;
+    border: #774936;
 }
 
 nav {
-    background-color: #1d2d50;
+    background-color: #163A38;
 }
 
 a{
@@ -44,6 +49,6 @@ a{
 }
 
 .dropdown-menu {
-    background-color: #cf7500;
+    background-color: #b7b7a4;
     color: white
 }
