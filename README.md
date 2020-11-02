@@ -27,7 +27,7 @@ Contact
 
 ## Here is a link to the final Responsive Portfolio
 
-https://alysonbennett.github.io/02ResponsivePortfolio.github.io/
+https://alysonbennett.github.io/MyPortfolio/
 
 While I feel that I completed this project to the best of my current abilities, I am excited to remodel these pages as I learn more programming.
 
