@@ -15,15 +15,15 @@ I completed the project with adding color schemes to help break up the pages int
 
 Index (About Me Page)
 
-![Index Image](screenshots/indexScreenShot.png)
+![Index Image](assets/screenshots/indexScreenShot.png)
 
 Portfolio
 
-![Portfolio Image](screenshots/portfolioScreenShot.png)
+![Portfolio Image](assets/screenshots/portfolioScreenShot.png)
 
 Contact
 
-![Contact](screenshots/contactScreenShot.png)
+![Contact](assets/screenshots/contactScreenShot.png)
 
 ## Here is a link to the final Responsive Portfolio
 
