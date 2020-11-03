@@ -15,19 +15,19 @@
 
 Welcome to my portfolio! Here you will learn a bit about me and my past experience. There are also links to some of the projects I have worked on
 
-## Here are some screen shots of the completed pages:
+## Screen Shots of My Portfolio
 
 Index (About Me Page)
 
-![Index Image](assets/screenshots/indexScreenShot.png)
+[Index Image](assets/screenshots/index.png)
 
 Portfolio
 
-![Portfolio Image](assets/screenshots/portfolioScreenShot.png)
+[Portfolio Page Image](assets/screenshots/portfolio.png)
 
 Contact
 
-![Contact](assets/screenshots/contactScreenShot.png)
+[Contact Page Image](assets/screenshots/contact.png)
 
 ## Here is a link to the final Responsive Portfolio
 
