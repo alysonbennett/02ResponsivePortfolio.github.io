@@ -19,15 +19,15 @@ Welcome to my portfolio! Here you will learn a bit about me and my past experien
 
 Index (About Me Page)
 
-[Index Image](assets/screenshots/index.png)
+![Index Image](assets/screenshots/index.png)
 
 Portfolio
 
-[Portfolio Page Image](assets/screenshots/portfolio.png)
+![Portfolio Page Image](assets/screenshots/portfolio.png)
 
 Contact
 
-[Contact Page Image](assets/screenshots/contact.png)
+![Contact Page Image](assets/screenshots/contact.png)
 
 ## Here is a link to the final Responsive Portfolio
 
