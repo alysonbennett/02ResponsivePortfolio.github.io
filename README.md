@@ -10,6 +10,7 @@
 * CSS
 * Bootstrap
 * Google Fonts
+* Font Awesome Icons
 
 ## Description of Application
 
