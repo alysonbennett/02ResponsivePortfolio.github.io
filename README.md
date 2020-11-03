@@ -1,5 +1,8 @@
-## Homework 2: Responsive Portfolio
-## Alyson Bennett
+## My Portfolio - Alyson Bennett
+
+## Link to Deployed Portfolio
+
+[Portfolio](https://alysonbennett.github.io/MyPortfolio/)
 
 The goal of this project was to create a responsive and personalized portfolio. This included a working navbar, a reponsive layout, and responsive images.  
 
